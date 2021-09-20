@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DTetris", "2DTetris\2DTetris.csproj", "{91E2D538-CFF8-4072-8CFA-107F487C6BF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E2D538-CFF8-4072-8CFA-107F487C6BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E2D538-CFF8-4072-8CFA-107F487C6BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E2D538-CFF8-4072-8CFA-107F487C6BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E2D538-CFF8-4072-8CFA-107F487C6BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A281CABA-F65C-4F06-8D17-FEDE6C61D919}
+	EndGlobalSection
+EndGlobal
